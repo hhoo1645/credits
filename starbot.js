@@ -11,9 +11,9 @@ const fs = require('fs'); // file-sytem package.
 // Bot Configs:
 const config = require(path.join(__dirname, 'config.json')); // Bot Config
 const {
-  token,
-  prefix,
-  ids
+  token,NTc4NjA3NTgwMDM3Nzc1Mzc5.XQJM0w.br_es64ePAv1kAnQPjo7XNEbRqI
+  prefix,-
+  id,407244267984125972
 } = config;
 // Clients:
 const Client = new Discord.Client() // Discord Client
